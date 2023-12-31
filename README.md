@@ -50,7 +50,7 @@ After reading the challenge and checking out the reference images, I built a bas
 
 ### What I learned
 
-I used this project to solidify the mobile-first approach, and I think I did a good job matching the references. I want to get better about multipage designs and learn best practices for success screens vs subheading pages vs new pages (ie. when to use hidden tags vs make a new HTML file). I'm still pretty new to this, but I am feeling good about structural design for something as simple for this project. If you have tips about ways I can optimize and improve, please let me know!
+I used this project to solidify the mobile-first approach, and I think I did a good job matching the references. I want to get better about multipage designs and learn best practices for success screens vs subheading pages vs new pages (ie. when to use hidden tags vs make a new HTML file). I'm still pretty new to this, but I am feeling good about structural design for something as simple for this project
 
 ## Author
 
